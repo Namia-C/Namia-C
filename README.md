@@ -6,7 +6,7 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=flat&logo=Telegram&logoColor=white)](https://t.me/RileyK9880)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
 
-- 😄 Pronouns: ...
+- 🇨🇳 Pronouns: 我是中国🇨🇳人
 - ⚡ Fun fact: ...
 
 <!---
