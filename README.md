@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Namia-C
 - 👀 I’m interested in Openwrt
-- 🌱 I’m currently learning  Actions编译Openwrt
+- 🌱 I’m currently learning  
+Actions Cloud compilation Openwrt
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=flat&logo=Telegram&logoColor=white)](https://t.me/RileyK9880)
