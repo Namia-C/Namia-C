@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Namia-C
+- 👋 Hi, I’m @Namia-R1
 - 👀 I’m interested in Openwrt
 - 🌱 I’m currently learning  Actions Cloud compilation Openwrt
 - 💞️ I’m looking to collaborate on ...
